@@ -19,7 +19,7 @@ export const metadata = {
     default: "Yorker Yard | Premium Cricket Turf in Ludhiana",
     template: "%s | Yorker Yard"
   },
-  description: "Book slots at Yorker Yard, Ludhiana's first FIFA-quality box cricket arena. Night matches, coaching, and tournaments available. Reserve your spot now.",
+  description: "Book slots at Yorker Yard, Ludhiana's Best box cricket arena. Night matches, coaching, and tournaments available. Reserve your spot now.",
 
   keywords: [
     "Cricket Turf Ludhiana",
